@@ -1,0 +1,10 @@
+<Application>
+	<Menus>
+		<action type="add">
+			<Menu Checked="0" Enabled="1" FatherUID="43535" Image="" Position="6" String="Airport Vendor Mapping"
+				Type="1" UniqueID="AV0001">
+					</Menu>
+		
+		</action>
+	</Menus>
+</Application>
